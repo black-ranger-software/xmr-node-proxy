@@ -11,6 +11,50 @@ Supports all known cryptonight/heavy/light coins:
 * Sumokoin (SUMO), Haven (XHV), Loki (LOKI)
 * ...
 
+## Known Working Pools
+
+CryptoNight
+Dero Mining Pool: https://dero.herominers.com/
+Electroneum Mining Pool: https://electroneum.herominers.com/
+Karbo Mining Pool: https://karbo.herominers.com/
+Sumokoin (SUMO) Mining Pool: https://sumo.herominers.com/
+
+CryptoNight v8
+Graft Mining Pool: https://graft.herominers.com/
+Lethean Mining Pool: https://lethean.herominers.com/
+Monero Mining Pool: https://monero.herominers.com/
+Safex Mining Pool: https://safex.herominers.com/
+X-Cash Mining Pool: https://xcash.herominers.com/
+
+CryptoNight v7
+Citadel Mining Pool: https://citadel.herominers.com/
+MoneroV Mining Pool: https://monerov.herominers.com/
+Quantum Resistant Ledger (QRL) Mining Pool: https://qrl.herominers.com/
+
+CryptoNight Heavy
+Loki Mining Pool: https://loki.herominers.com/
+Ryo Mining Pool: https://ryo.herominers.com/
+
+CryptoNight Heavy-Saber
+BitTube Mining Pool: https://tube.herominers.com/
+
+CryptoNight Heavy-Haven
+BLOC (Bloc.money) Mining Pool: https://bloc.herominers.com/
+Haven Mining Pool: https://haven.herominers.com/
+Saronite Mining Pool: https://saronite.herominers.com/
+
+CryptoNight Fast
+Conceal Mining Pool: https://conceal.herominers.com/
+Masari Mining Pool: https://masari.herominers.com/
+
+CryptoNight XTL
+Stellite Mining Pool: https://stellite.herominers.com
+
+CryptoNight Light v1
+Aeon Mining Pool: https://aeon.herominers.com/ 
+ArQmA Mining Pool: https://arqma.herominers.com/
+TurtleCoin Mining Pool: https://turtlecoin.herominers.com/ 
+
 ## Setup Instructions
 
 Based on a clean Ubuntu 16.04 LTS minimal install
@@ -195,21 +239,6 @@ If you'd like to make a one time donation, the addresses are as follows:
 * ETH - ```0xCF8BABC074C487Ae17F9Ce0394eab492E6A35658```
 * LTC - ```MCkjQo99VzoeZQ1piDzLDb4uqNSDRZpx55```
 
-## Known Working Pools
 
-* [XMRPool.net](https://xmrpool.net)
-* [supportXMR.com](https://supportxmr.com)
-* [pool.xmr.pt](https://pool.xmr.pt)
-* [minemonero.pro](https://minemonero.pro)
-* [XMRPool.xyz](https://xmrpool.xyz)
-* [ViaXMR.com](https://viaxmr.com)
-* [mine.MoneroPRO.com](https://mine.moneropro.com)
-* [MinerCircle.com](https://www.minercircle.com)
-* [xmr.p00ls.net](https://www.p00ls.net)
-* [MoriaXMR.com](https://moriaxmr.com)
-* [MoneroOcean.stream](https://moneroocean.stream)
-* [SECUmine.net](https://secumine.net)
-* [Chinaenter.cn](http://xmr.chinaenter.cn)
-* [XMRPool.eu](https://xmrpool.eu)
 
 If you'd like to have your pool added, please make a pull request here, or contact MoneroOcean at support@moneroocean.stream!
